@@ -31,9 +31,7 @@ Email Me 👉 ✉️ **shobhita65403@gmail.com** For Collaboration/Project or An
 ![](https://github-trophies.vercel.app/?username=Saatvik-Gupta&theme=radical&no-frame=true&margin-w=10)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saatvik-gupta-8878183b7/?skipRedirect=true)
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shobhita65403@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saatvik-gupta-8878183b7/?skipRedirect=true) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shobhita65403@gmail.com)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Saatvik Gupta
 **A passionate AIML Student || Moradabad Institute of Technology || Python/C/C++**
 <br>
-[![](https://komarev.com/ghpvc/?username=Saatvik-Gupta&icon=0&color=white)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Saatvik-Gupta&icon=0)](https://visitcount.itsvg.in)
 
 Email Me 👉 ✉️ **shobhita65403@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -28,10 +28,12 @@ Email Me 👉 ✉️ **shobhita65403@gmail.com** For Collaboration/Project or An
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saatvik-Gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saatvik-Gupta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Saatvik-Gupta&theme=radical&no-frame=true&margin-w=10)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saatvik Gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shobhita65403@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saatvik-gupta-8878183b7/?skipRedirect=true)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shobhita65403@gmail.com)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
